@@ -1,0 +1,9 @@
+conda install -c conda-forge tensorflow
+pip install ipykernel
+pip install opencv-python
+conda install -c conda-forge opencv
+pip install numpy
+pip install imutils
+pip install cmake
+pip install dlib
+pip install matplotlib
