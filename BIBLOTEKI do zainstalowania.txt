@@ -7,3 +7,4 @@ pip install imutils
 pip install cmake
 pip install dlib
 pip install matplotlib
+pip install face-recognition
