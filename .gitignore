@@ -1,0 +1,4 @@
+*.csv
+frames/
+.ipynb_checkpoints/
+.vs/
